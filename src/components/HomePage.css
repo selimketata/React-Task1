@@ -1,0 +1,6 @@
+.contenu{
+    display:flex;
+    justify-content:center;
+    gap:45px;
+    align-items:flex-start;
+}
